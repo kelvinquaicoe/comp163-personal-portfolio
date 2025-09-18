@@ -1,7 +1,7 @@
 # comp163-personal-portfolio
 assingnments 
 # Repository setup 
-git clone [[your-repo-url](https://github.com/kelvinquaicoe/comp163-personal-portfolio/commit/306b29057a512c582a91aca567f1366b888b1e85)] 
+git clone [Assessment approved kkquaicoe_assignment_3] 
 cd comp163-personal-portfolio 
 
 # Development workflow (repeat for each change) 
